@@ -19,20 +19,20 @@ On the other hand, those who run a fitness center used to need two different sof
 # Function & Specialty 
 
 For User:
-View and search all the available gyms in an area
-Buy Equipment / Products
-Buy Membership Package
-Set Own Workout Plan
-Assigning the trainer personally
-Update their full account 
+View and search all the available gyms in an area,
+Buy Equipment / Products,
+Buy Membership Package,
+Set Own Workout Plan,
+Assigning the trainer personally,
+Update their full account.
 
 For Admin:
-Admin can manage the whole system 
-Set up a profile with different details 
-Add member's details to his database 
-Upload Products
-Can send notice
-Manage trainer
+Admin can manage the whole system,
+Set up a profile with different details,
+Add member's details to his database,
+Upload Products,
+Can send notice,
+Manage trainer.
 
 
 
