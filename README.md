@@ -16,6 +16,25 @@ Often, regular gym usage is not possible at work. The online gym contains a lot 
 However, gym members will get special discounts on the same equipment and products. Moreover, certain facilities, like personal trainers, buying membership online, discount offers, etc. will be available to members only. 
 On the other hand, those who run a fitness center used to need two different software. One is to manage their gym data, and the other is if they are selling any products. But now they can do these two things together through software and at the same time can register for membership online at home.
 
+# Function & Specialty 
+
+For User:
+View and search all the available gyms in an area
+Buy Equipment / Products
+Buy Membership Package
+Set Own Workout Plan
+Assigning the trainer personally
+Update their full account 
+
+For Admin:
+Admin can manage the whole system 
+Set up a profile with different details 
+Add member's details to his database 
+Upload Products
+Can send notice
+Manage trainer
+
+
 
 
 
