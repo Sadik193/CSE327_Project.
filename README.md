@@ -6,7 +6,21 @@ Our project is basically for those who run the fitness center. Those who will op
 
 # Our Target Audience
 
-Our main audience is conscious men, women, and children of all ages who like to change their lifestyles. They can schedule any time for workouts at their convenience. Just as they can buy products at home, they can also subscribe to membership at home.
+Our main audience is conscious men, women, and children of all ages who like to change their lifestyles. They can schedule any time for workouts at their convenience. Just as they can buy products at home, they can also subscribe to a membership at home.
+
+# Why do we need this application?
+
+Gym members and officials can access the system from anywhere with an internet connection, making it easier to manage the gym and access information.
+This automates many manual tasks associated with managing a gym, such as membership management, scheduling, and billing. This saves time and reduces the risk of errors.
+Often, regular gym usage is not possible at work. The online gym contains a lot of body-weight exercises that can be completed at home.
+However, gym members will get special discounts on the same equipment and products. Moreover, certain facilities, like personal trainers, buying membership online, discount offers, etc. will be available to members only. 
+On the other hand, those who run a fitness center used to need two different software. One is to manage their gym data, and the other is if they are selling any products. But now they can do these two things together through software and at the same time can register for membership online at home.
+
+
+
+
+
+
 
 
 
